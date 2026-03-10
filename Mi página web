@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vanguard y BlackRock en México</title>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f4f4;
+color:#333;
+}
+
+header{
+background:#111;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+nav{
+background:#333;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+font-weight:bold;
+}
+
+nav a:hover{
+color:#4CAF50;
+}
+
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+background:white;
+margin-top:20px;
+border-radius:8px;
+}
+
+h2{
+color:#222;
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Vanguard y BlackRock en México</h1>
+<p>Información sobre su presencia empresarial y estrategias de consumo consciente</p>
+</header>
+
+<nav>
+<a href="#quienes">¿Quiénes son?</a>
+<a href="#empresas">Empresas relacionadas</a>
+<a href="#estrategias">Cómo evitarlas</a>
+</nav>
+
+<section id="quienes">
+<h2>¿Quiénes son Vanguard y BlackRock?</h2>
+
+<p>
+Vanguard y BlackRock son dos de las gestoras de inversión más grandes del mundo.
+Administran billones de dólares en fondos de inversión y ETFs que compran acciones
+de miles de empresas globales.
+</p>
+
+<p>
+Debido al tamaño de sus fondos, ambas empresas terminan teniendo participaciones
+en muchas compañías que cotizan en bolsas internacionales, incluyendo empresas
+mexicanas.
+</p>
+
+</section>
+
+<section id="empresas">
+<h2>Ejemplos de empresas mexicanas con inversión de estos fondos</h2>
+
+<ul>
+<li>Cemex</li>
+<li>Grupo Financiero Banorte</li>
+<li>Televisa</li>
+<li>Grupo BMV</li>
+<li>Peñoles</li>
+<li>Bimbo</li>
+<li>América Móvil</li>
+<li>Grupo Aeroportuario del Pacífico</li>
+<li>Gruma</li>
+<li>Banco del Bajío</li>
+</ul>
+
+<p>
+Fondos de inversión internacionales como BlackRock y Vanguard suelen tener
+participaciones minoritarias en muchas empresas mexicanas porque replican índices
+de mercado completos. :contentReference[oaicite:0]{index=0}
+</p>
+
+</section>
+
+<section id="estrategias">
+
+<h2>Estrategias para evitar consumir empresas relacionadas</h2>
+
+<ol>
+<li>Investigar quiénes son los accionistas de las empresas antes de comprar.</li>
+
+<li>Preferir empresas locales pequeñas o cooperativas.</li>
+
+<li>Comprar productos de mercados regionales en lugar de grandes corporaciones.</li>
+
+<li>Apoyar economía local y emprendimientos independientes.</li>
+
+<li>Revisar reportes financieros y accionistas en sitios como la Bolsa Mexicana de Valores.</li>
+</ol>
+
+<p>
+Es importante considerar que muchas empresas públicas tienen múltiples accionistas,
+por lo que evitar completamente la inversión indirecta de grandes fondos puede ser
+difícil.
+</p>
+
+</section>
+
+<footer>
+<p>Proyecto educativo – 2026</p>
+</footer>
+
+</body>
+</html>
